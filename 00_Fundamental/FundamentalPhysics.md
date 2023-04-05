@@ -9,7 +9,7 @@ with $\alpha = h \nu / m_0 c^2$
 - Classical/Thomson scattering: $\frac{d \sigma_0}{d \Omega} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta)$
 or $\frac{d \sigma_0}{d \theta} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta) \times 2\pi sin\theta $
 
-#### Attenuation Coefficients
+### Attenuation Coefficients
 
 | $\tau / \rho$ (Photoelectric) | $\sigma_R / \rho$ (Rayleigh) | $\sigma / \rho$ (Compton) | $\kappa / \rho$ (Pair Production) |
 | :---           |          :---      | :---             | :---              |  
@@ -22,7 +22,7 @@ or $\frac{d \sigma_0}{d \theta} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta) \ti
 - $\left( \frac{\mu}{\rho} \right)_{water}$: Start from 5 $cm^2 / g$ at 0.01 MeV; Co-60 (1.25 MeV) 5\% per cm or 0.05 $cm^2 / g$; 6 MeV 3\% per cm or 0.03 $cm^2 / g$; and 15 MeV 2\% per cm or 0.02 $cm^2 / g$.
 - $\left( \frac{\mu_{ab}}{\rho} \right)_{water}$: Start from 5 $cm^2 / g$ at 0.01 MeV; 0.02 $cm^2$/g @ 0.1 MeV; 0.03 $cm^2 / g$ @ 1 MeV; and 0.015 $cm^2 / g$ @ 10 MeV.
 
-#### F-factor: 
+### F-factor: 
 ```math 
 D_{med} = X f_{med} \;\;\;\;\;\;\text{with}\;\;\;\;\;\;
 f_{med} = \left(\frac{W}{e}\right)_{air} \left(\frac{\bar{\mu}_{ab}}{\rho} \right)_{air}^{med}
