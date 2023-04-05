@@ -9,15 +9,22 @@ with $\alpha = h \nu / m_0 c^2$
 - Classical/Thomson scattering: $\frac{d \sigma_0}{d \Omega} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta)$
 or $\frac{d \sigma_0}{d \theta} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta) \times 2\pi sin\theta $
 
+#### Attenuation Coefficients
 
-| $\tau / \rho$ | $\sigma_R / \rho$ | $\sigma / \rho$ | $\kappa / \rho$  |
-| ---           |          ---      | ---             | ---              |  
-| 1/(h \nu)^3$  | $1 / (h \nu)^2$   | Decrease with $h \nu$ | Increase with $h\nu$ |
-| $Z^3$         | Z                 | Independent     | Z |
-| Photon energy totally absorbed by a bound electron, which is ejected with energy $h \nu - E_B$. All the photon energy is transferred to medium | $\gamma \xrightarrow{having} \lambda$ $\xrightarrow{vibration of} e^-$  $\xrightarrow{emit} \lambda$ $\xrightarrow{combined} \gamma$ | Photon interacts with an electron at rest, which results in the photon get scattered and the electron set to a motion. Part of the photon energy is transferred to the medium | Photon disappeared with all energy transferred to the electron-positron pair. |
+| $\tau / \rho$ (Photoelectric) | $\sigma_R / \rho$ (Rayleigh) | $\sigma / \rho$ (Compton) | $\kappa / \rho$ (Pair Production) |
+| :---           |          :---      | :---             | :---              |  
+| $1/(h \nu)^3$ | $1 / (h \nu)^2$   | Decrease with $h \nu$ | Increase with $h\nu$ |
+| $Z^3$         | $Z$               | Independent     | $Z$ |
+| Photon energy totally absorbed by a bound electron, which is ejected with energy $h \nu - E_B$. All the photon energy is transferred to medium | $\gamma \xrightarrow{having} \lambda$ $\xrightarrow{\text{vibration of}} e^-$  $\xrightarrow{emit} \lambda$ $\xrightarrow{combined} \gamma$ | Photon interacts with an electron at rest, which results in the photon get scattered and the electron set to a motion. Part of the photon energy is transferred to the medium | Photon disappeared with all energy transferred to the electron-positron pair. |
 
 ![mu_rho_jc](https://user-images.githubusercontent.com/6154401/230149872-449fa1dc-ea48-455b-b7b4-fd41921ff404.PNG)
 
 - $\left( \frac{\mu}{\rho} \right)_{water}$: Start from 5 $cm^2 / g$ at 0.01 MeV; Co-60 (1.25 MeV) 5\% per cm or 0.05 $cm^2 / g$; 6 MeV 3\% per cm or 0.03 $cm^2 / g$; and 15 MeV 2\% per cm or 0.02 $cm^2 / g$.
 - $\left( \frac{\mu_{ab}}{\rho} \right)_{water}$: Start from 5 $cm^2 / g$ at 0.01 MeV; 0.02 $cm^2$/g @ 0.1 MeV; 0.03 $cm^2 / g$ @ 1 MeV; and 0.015 $cm^2 / g$ @ 10 MeV.
 
+* F-factor: $f_{med}$ = $\left( \frac{W}{e} \right)_{air}$ $\left( \frac{\bar{\mu}_{ab}}{\rho} \right)_{air}^{med}$. 
+For $E \gtrsim 200 \tmop{keV}$, $f_{\tmop{bone}} \nocomma$, $f_{\tmop{muscle}}$, and
+$f_{\tmop{wat}}$ are roughly the same, since Compton dominates.
+$f_{\tmop{muscle}} \lesssim f_{\tmop{wat}}$ for $E \gtrsim 200 \tmop{keV}$,
+$f_{\tmop{bone}} \lesssim f_{\tmop{wat}}$ for $200 \tmop{keV} \lesssim E
+\lesssim 6 \tmop{MeV}$.
