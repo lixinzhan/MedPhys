@@ -31,3 +31,13 @@
 - For 20 cm separation, $D_{\max} = 1.06$ for 6 MV and 1.03 for 15 MV.
 
 - POP clinically, if $d < 15$ cm, 6 MV or lower can be used; if $d > 20$ cm, 10 MV or higher must be used.
+
+### Electron Beams
+
+| E (MeV) | Surface (70+E)\% | Dmax | Dref | R50  | X (E/5)\% |
+| :---:   | :---:            | :---:| :---:| :---:| :---:     |
+| 6       | 76 (73)          | 1.3  | 1.3  | 2.4  | 1.2       |
+| 9       | 79 (78)          | 2.1  | 2.1  | 3.6  | 1.8       |
+| 12      | 82 (83)          | 2.9  | 2.9  | 5.0  | 2.4       |
+| 16      | 86 (88)          | 3.3  | 3.9  | 6.7  | 3.2       |
+| 20      | 76 (73)          | 1.9  | 4.9  | 8.3  | 4.0       |
