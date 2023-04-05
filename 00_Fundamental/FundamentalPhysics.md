@@ -31,6 +31,8 @@ or $\frac{d \sigma_0}{d \theta} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta) \ti
 
 - $e^\-$ traveling speed: 100 keV ~ 0.5c; 1MeV ~ 0.95c; 5 MeV ~ 1.0c
 
+- Coster-Cronig: shell vacancy is _filled_ by an electron from a higher subshell of the same shell.
+
 ### Attenuation Coefficients
 
 | $\tau / \rho$ (Photoelectric) | $\sigma_R / \rho$ (Rayleigh) | $\sigma / \rho$ (Compton) | $\kappa / \rho$ (Pair Production) |
@@ -44,7 +46,7 @@ or $\frac{d \sigma_0}{d \theta} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta) \ti
 - $\left( \frac{\mu}{\rho} \right)_{water}$: Start from 5 $cm^2 / g$ at 0.01 MeV; Co-60 (1.25 MeV) 5\% per cm or 0.05 $cm^2 / g$; 6 MeV 3\% per cm or 0.03 $cm^2 / g$; and 15 MeV 2\% per cm or 0.02 $cm^2 / g$.
 - $\left( \frac{\mu_{ab}}{\rho} \right)_{water}$: Start from 5 $cm^2 / g$ at 0.01 MeV; 0.02 $cm^2$/g @ 0.1 MeV; 0.03 $cm^2 / g$ @ 1 MeV; and 0.015 $cm^2 / g$ @ 10 MeV.
 
-### F-factor: 
+### F-factor 
 ```math 
 D_{med} = X f_{med} \;\;\;\;\;\;\text{with}\;\;\;\;\;\;
 f_{med} = \left(\frac{W}{e}\right)_{air} \left(\frac{\bar{\mu}_{ab}}{\rho} \right)_{air}^{med}
@@ -52,3 +54,15 @@ f_{med} = \left(\frac{W}{e}\right)_{air} \left(\frac{\bar{\mu}_{ab}}{\rho} \righ
 - For $E \gtrsim 200$ keV, $f_{bone}$, $f_{muscle}$, and $f_{wat}$ are roughly the same, since Compton dominates.
 - $f_{muscle} \lesssim f_{wat}$ for $E \gtrsim 200$ keV.
 - $f_{bone} \lesssim f_{wat}$ for 200keV $\lesssim E \lesssim 6$ MeV.
+
+### Stopping Power
+
+![SionSrad](https://user-images.githubusercontent.com/6154401/230199701-921e7c0e-52d9-4079-b909-a67338153b16.PNG)
+
+- $\frac{S_{rad}}{\rho} = \frac{S_{ion}}{\rho}$ for Pb @ 10 MeV, and $\frac{S_{rad}}{\rho} = \frac{S_{ion}}{\rho}$ for water @ 100 MeV
+
+- $S_{ion} / \rho = 20$ MeV $cm^2 / g$ for water @ $E = 0.01$ MeV, and $S_{ion} / \rho = 8.5$ MeV $cm^2 / g$ for Pb @ 0.01 MeV
+
+- $S_{ion}/\rho \propto N_e z^2 / v^2$ and $S_{rad}/\rho \propto N_e Z E$.
+
+- Electron in water: 2 MeV/cm. Air density is 1/800 of water. Electron in air: 400 cm/MeV
