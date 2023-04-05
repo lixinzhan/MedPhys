@@ -22,7 +22,7 @@ or $\frac{d \sigma_0}{d \theta} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta) \ti
 - $\left( \frac{\mu}{\rho} \right)_{water}$: Start from 5 $cm^2 / g$ at 0.01 MeV; Co-60 (1.25 MeV) 5\% per cm or 0.05 $cm^2 / g$; 6 MeV 3\% per cm or 0.03 $cm^2 / g$; and 15 MeV 2\% per cm or 0.02 $cm^2 / g$.
 - $\left( \frac{\mu_{ab}}{\rho} \right)_{water}$: Start from 5 $cm^2 / g$ at 0.01 MeV; 0.02 $cm^2$/g @ 0.1 MeV; 0.03 $cm^2 / g$ @ 1 MeV; and 0.015 $cm^2 / g$ @ 10 MeV.
 
-* F-factor: $f_{med}$ = $\left( \frac{W}{e} \right)_{air}$ $\left( \frac{\bar{\mu}_{ab}}{\rho} \right)_{air}^{med}$. 
+* F-factor: $f_{med}$ = $\left(\frac{W}{e}\right)_{air}$  $\left( \frac{\bar{\mu}_{ab}}{\rho} \right)_{air}^{med}$. 
 For $E \gtrsim 200 \tmop{keV}$, $f_{\tmop{bone}} \nocomma$, $f_{\tmop{muscle}}$, and
 $f_{\tmop{wat}}$ are roughly the same, since Compton dominates.
 $f_{\tmop{muscle}} \lesssim f_{\tmop{wat}}$ for $E \gtrsim 200 \tmop{keV}$,
