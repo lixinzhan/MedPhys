@@ -1,9 +1,29 @@
 ## Fundamental Physics in Radiation Therapy
 
-- 1 electron mass = 0.511 MeV, 1 amu = 931.6 MeV,  $m=m_0/\sqrt{1-β^2}$
-- 1 Ci=37 GBq, the disintegration of $1 g ^{226}Ra/sec$. $^{226}Ra$ specific activity: 37 GBq/g or 8.25 $(R⋅cm^2)/(hr⋅mCi)$.
+- 1 electron mass = **0.511** MeV, 1 amu = 931.6 MeV,  $m=m_0/\sqrt{1-β^2}$
+
+- 1 Ci=37 GBq, the disintegration of 1 g $^{226}Ra$/sec. $^{226}Ra$ specific activity: 37 GBq/g or 8.25 $(R⋅cm^2)/(hr⋅mCi)$.
+
 - 1 R = 0.876 cGy = $2.58×10^{-4}$ C/kg; $\left(\frac{W}{e}\right)_{air}$ = 33.97 J/C = 33.97 eV/ion pair; 1 eV = $1.6×10^{-19}$ J.
-- Elements: $Pb_{82}^{207}$; $W_{74}^{184}$; $^{64}_{29}Cu$; $^{7.51}H_2O$; $^{7.78}Air$; $^{8.3}LiF$; 
+
+- Elements: $Pb_{82}^{207}$,  $W_{74}^{184}$,  $^{64}_{29}Cu$,  $^{7.51}H_2O$,  $^{7.78}Air$,  $^{8.3}LiF$
+
+| Radioactive Decay | Typical examples |
+| :--- | :--- |
+| $\alpha$ decay | $^{226}Ra \rightarrow^{222}Rn + \alpha$ |
+| $\beta$ decay  | $^{60}Co \rightarrow^{60}Ni^{\star} + e^-, ^{60}Ni^{\star} \rightarrow^{60}Ni + \gamma$ (1.17, 1.33 MeV) |
+| $\beta^+$ decay| $^{18}F \rightarrow^{18}O + e^+ + \nu_e$ |
+| $e^\-$ capture | $^{125}I_{53} + e^\- \longrightarrow^{125}Te^{\star}_\text{52}  + \nu_e + \gamma$ |
+| $\gamma$ decay | $^{99 m}Tc^{\star} \longrightarrow^{99}Tc + \gamma$ (SPECT) |
+| Internal conversion | $^{125}Te^{\star}_{52} \longrightarrow^{125}Te$ + $e^\-_K$  (93%, K-shell electron) **or** $\gamma$ (7%, 35 keV) |
+| n capture      | $n +^{10}_5 B \longrightarrow^7_3 Li + \alpha + \gamma$; In tissue: $n +^1 H \longrightarrow^2 H + \gamma$, $n +^{14} N \longrightarrow^{14} C + p$ |
+| n-production | $p +^9_4 Be \longrightarrow^9_5 B + n$ or $^2_1 H +^9_4Be \longrightarrow^{10}_5 B + n$ |
+
+- mean life = $T_{1 / 2} / \ln 2 = 1.44 T_{1 / 2} = 1 / \lambda$; mean free path (mfp) = $\mu^{- 1}$.
+
+- Radioactive daughter decay $A_2 = A_1  \frac{\lambda_2}{\lambda_2 - \lambda_1}$, if the decay time is long.
+
+
 - Compton: $h \nu' = h \nu \frac{1}{1 + \alpha (1 - \cos \theta)}$, $E = h \nu \frac{\alpha (1 - \cos \theta)}{1 + \alpha (1 - \cos \theta)}$ 
 with $\alpha = h \nu / m_0 c^2$ 
 - Classical/Thomson scattering: $\frac{d \sigma_0}{d \Omega} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta)$
