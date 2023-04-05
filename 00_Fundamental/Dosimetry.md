@@ -11,11 +11,23 @@
 | 10     | 2.4     | 91         | 74          | 46          | ??               |
 | 15     | 2.9     | 94         | 77          | 50          | 10               |
 
-| X (MV) | $TPR_5^{10}$|$TPR_{10}^{20}$| TMR(5) | TMR(10) |
-| :---   | :---        | :---          | :---   | :---    |
-| Co $^{60}$ |         | 0.6           | 0.87   |  0.69   |
-| 6FFF   |             |               |        |         |
-| 6      | 0.84        | 0.67          |        |         |
-| 10FFF  |             |               |        |         |
-| 10     | 0.87        | 0.74          |        |         |
-| 15     | 0.89        | 0.76          |        |         |
+| X (MV) | $TPR_5^{10}$|$TPR_{10}^{20}$| TMR(5) | TMR(10) | $S_{cp} (40)$ | $S_c (40)$ | $S_{cp} (3)$ | $S_c (3) $ |
+| :---   | :---        | :---          | :---   | :---    | :--- | :--- | :--- | :--- |
+| Co $^{60}$ |         | 0.6           | 0.87   |  0.69   | | | | |
+| 6FFF   |             |               |        |         | | | | |
+| 6      | 0.84        | 0.67          |        |         | 1.12                       | 1.05 | 0.9 | 0.95 |
+| 10FFF  |             |               |        |         | | | | |
+| 10     | 0.87        | 0.74          |        |         | | | | |
+| 15     | 0.89        | 0.76          |        |         | 1.08                       | 1.04 | 0.9 | 0.95 |
+
+- Dose fall-off with depth -- $Co^{60}$: ~4\%/cm;  6MV: ~3\%/cm;  10MV: ~2.5\%/cm;  15MV: ~2.2\%/cm
+
+- FS $5\times 5$ has the biggest $d_{max}$. When FS > 5, $d_{max}$ decrease due to $S_c$; when FS < 5, $d_{max}$ decrease due to $S_p$.
+
+- Photon FS $\uparrow$, $d_{\max} \downarrow$; Electron FS $\uparrow$, $d_{\max}\uparrow$
+
+- Photon PDD shape due to: (i) attenuation, (ii) ISF, (iii) scatter, (iv) $e^-$ energy deposite nonlocally.
+
+- For 20 cm separation, $D_{\max} = 1.06$ for 6 MV and 1.03 for 15 MV.
+
+- POP clinically, if $d < 15$ cm, 6 MV or lower can be used; if $d > 20$ cm, 10 MV or higher must be used.
