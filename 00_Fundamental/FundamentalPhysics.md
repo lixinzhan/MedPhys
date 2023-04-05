@@ -23,11 +23,13 @@
 
 - Radioactive daughter decay $A_2 = A_1  \frac{\lambda_2}{\lambda_2 - \lambda_1}$, if the decay time is long.
 
-
 - Compton: $h \nu' = h \nu \frac{1}{1 + \alpha (1 - \cos \theta)}$, $E = h \nu \frac{\alpha (1 - \cos \theta)}{1 + \alpha (1 - \cos \theta)}$ 
 with $\alpha = h \nu / m_0 c^2$ 
+
 - Classical/Thomson scattering: $\frac{d \sigma_0}{d \Omega} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta)$
 or $\frac{d \sigma_0}{d \theta} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta) \times 2\pi sin\theta $
+
+- $e^\-$ traveling speed: 100 keV ~ 0.5c; 1MeV ~ 0.95c; 5 MeV ~ 1.0c
 
 ### Attenuation Coefficients
 
