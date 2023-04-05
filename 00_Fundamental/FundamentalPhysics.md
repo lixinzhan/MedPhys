@@ -12,6 +12,10 @@ or $\frac{d \sigma_0}{d \theta} = \frac{r_0^2}{2} \times (1 + \cos^2 \theta) \ti
 
 | $\tau / \rho$ | $\sigma_R / \rho$ | $\sigma / \rho$ | $\kappa / \rho$  |
 | ---           |          ---      | ---             | ---              |  
-| 1/(h \nu)^3$  | $1 / (h \nu)^2$   | Decrease with $h \nu$ | Increase with $h\nu$\\ |
+| 1/(h \nu)^3$  | $1 / (h \nu)^2$   | Decrease with $h \nu$ | Increase with $h\nu$ |
 | $Z^3$         | Z                 | Independent     | Z |
 | Photon energy totally absorbed by a bound electron, which is ejected with energy $h \nu - E_B$. All the photon energy is transferred to medium | $\gamma \xrightarrow{having} \lambda$ $\xrightarrow{vibration of} e^-$  $\xrightarrow{emit} \lambda$ $\xrightarrow{combined} \gamma$ | Photon interacts with an electron at rest, which results in the photon get scattered and the electron set to a motion. Part of the photon energy is transferred to the medium | Photon disappeared with all energy transferred to the electron-positron pair. |
+
+![mu_rho_jc](https://user-images.githubusercontent.com/6154401/230149872-449fa1dc-ea48-455b-b7b4-fd41921ff404.PNG)
+
+- $\left( \frac{\mu}{\rho} \right)_{water}$: Start from 5 $cm^2 / g$ at 0.01 MeV; Co-60 (1.25 MeV) 5\% per cm or 0.05 $cm^2 / g$; 6 MeV 3\% per cm or 0.03 $cm^2 / g$; and 15 MeV 2\% per cm or 0.02 $cm^2 / g$.
