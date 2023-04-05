@@ -2,9 +2,9 @@
 
 _Mostly for those might be hard to remember_
 
-1. [Fundamental Physics in Radiation Therapy](FundamentalPhysics.md)
+* [Fundamental Physics in Radiation Therapy](FundamentalPhysics.md)
 
-2. [Dosimetry](Dosimetry.md)
-  - [TG-51](TG51.md)
+* [Dosimetry](Dosimetry.md)
+    - [TG-51](TG51.md)
   
-  
+* Linac  
