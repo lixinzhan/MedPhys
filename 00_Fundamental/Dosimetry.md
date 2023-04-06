@@ -43,4 +43,22 @@
 | 20      | 93 (90)          | 1.9  | 4.9  | 8.3  | 4.0       |
 
 - $d_{ref} = 0.6 R_{50} - 0.1$.    $R_{50} = E_0/2.33$       $\bar{E_d} = \bar{E_0}\left( 1-\frac{d}{R_p} \right) $
-- 
+
+- Therapeutic range: E/3 ($R_p \approx E / 2$, $R_{80} \approx E / 3$, $R_{90} \approx E / 4$, $\tmop{PDD}_X \approx E / 5$) penumbra: $\sim 1$ cm
+
+- Lateral scatter equilibrium: E/2.5 (field size) or 0.88$\sqrt{E_{p, 0}}$ (distance from field edge)
+
+- Lead shielding requirement: E/2+1 (mm) &emsp; [1 mm is the safety margin]
+
+- Cerrobend shielding requirement: (E/2)$\times$1.2 + 1 (mm)
+
+- PDD $e^-$: $E \uparrow$ {\Rightarrow} surface dose $\uparrow$, more X contamination. FS $\downarrow$ $\Rightarrow$ if FS < $R_p$, $d_{\max}$ $\downarrow$, surface dose $\uparrow$
+
+- Oblique incidence ($> 20^{\circ}$) $\Longrightarrow$surface dose $\uparrow$, dmax $\downarrow$, $R_p \uparrow$, and PDD shape change dramatically
+
+- $R_p$ is independent of FS and dependent on beam energy only. $R_p$ is at $\sim$10\% depth dose position.
+
+- X contamination typically <1\% for 4 MeV and <4\% for 20 MeV (dual scattering foils) (IAEA)
+
+- $SSD_{\text{eff}}$ determined by ISF and dose measured @ $d_{\max}$: $\frac{D_0}{D_g} = \left( \frac{S \tmop{SD}_{\text{eff}} + d_{\max} + g}{S\text{SD}_{\text{eff}} + d_{\max}} \right)^2$ with $g$ the gap between phantom and applicator (0 -- 15 cm).
+
