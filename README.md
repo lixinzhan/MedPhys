@@ -1,3 +1,3 @@
 # Medical Physics
 
-* [Fundermentals: A Brief Summary](00_Fundermental)
+* [Fundamentals: A Brief Summary](00_Fundamental)
