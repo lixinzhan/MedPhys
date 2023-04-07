@@ -6,7 +6,7 @@
 
 - 1 R = 0.876 cGy = $2.58×10^{-4}$ C/kg; $\left(\frac{W}{e}\right)_{air}$ = 33.97 J/C = 33.97 eV/ion pair; 1 eV = $1.6×10^{-19}$ J.
 
-- Elements: $Pb_{82}^{207}$,  $W_{74}^{184}$,  $^{64}_{29}Cu$,  $^{7.51}H_2O$,  $^{7.78}Air$,  $^{8.3}LiF$
+- Elements: $Pb_{82}^{207}$ ($327.5^\circ C$),  $W_{74}^{184}$ ($3422^\circ C$),  $^{64}_{29}Cu$ ($1085^\circ C$),  $^{7.51}H_2O$,  $^{7.78}Air$,  $^{8.3}LiF$
 
 | Radioactive Decay | Typical examples |
 | :--- | :--- |
