@@ -20,7 +20,7 @@
 | 10     | 0.87        | 0.74          |        |         | | | | |
 | 15     | 0.89        | 0.76          |        |         | 1.08                       | 1.04 | 0.9 | 0.95 |
 
-- Dose fall-off with depth -- $Co^{60}$: ~4\%/cm;  6MV: ~3\%/cm;  10MV: ~2.5\%/cm;  15MV: ~2.2\%/cm
+- Dose fall-off with depth --- $Co^{60}$: ~4\%/cm; &emsp; 6MV: ~3\%/cm; &emsp; 10MV: ~2.5\%/cm; &emsp; 15MV: ~2.2\%/cm
 
 - FS $5\times 5$ has the biggest $d_{max}$. When FS > 5, $d_{max}$ decrease due to $S_c$; when FS < 5, $d_{max}$ decrease due to $S_p$.
 
@@ -42,7 +42,7 @@
 | 16      | 88 (86)          | 3.3  | 3.9  | 6.7  | 3.2       |
 | 20      | 93 (90)          | 1.9  | 4.9  | 8.3  | 4.0       |
 
-- $d_{ref} = 0.6 R_{50} - 0.1$.    $R_{50} = E_0/2.33$       $\bar{E_d} = \bar{E_0}\left( 1-\frac{d}{R_p} \right) $
+- $d_{ref} = 0.6 R_{50} - 0.1$  &emsp;  $R_{50} = E_0/2.33$  &emsp;  $\bar{E_d} = \bar{E_0}\left( 1-\frac{d}{R_p} \right) $
 
 - Therapeutic range: E/3 ($R_p \approx E / 2$, $R_{80} \approx E / 3$, $R_{90} \approx E / 4$, $PDD_X \approx E / 5$). Penumbra: $\sim 1$ cm
 
@@ -60,5 +60,5 @@
 
 - X contamination typically <1\% for 4 MeV and <4\% for 20 MeV (dual scattering foils) (IAEA)
 
-- $SSD_{\text{eff}}$ determined by ISF and dose measured @ dmax: $\frac{D_0}{D_g} = \left( \frac{SSD_{\text{eff}} + dmax + g}{SSD_{\text{eff}} + dmax} \right)^2$ with $g$ being the gap between phantom and applicator (0 - 15 cm).
+- $SSD_{\text{eff}}$ determined by ISF and dose measured @ dmax: $\frac{D_0}{D_g} = \left( \frac{SSD_{\text{eff}} + dmax + g}{SSD_{\text{eff}} + dmax} \right)^2$ with $g$ the gap btwn phantom and applicator (0 - 15 cm).
 
